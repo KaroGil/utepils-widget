@@ -1,8 +1,9 @@
-# 🍺 Utepils-meter Widget
+<img width="474" height="474" alt="utepils-widget" src="https://github.com/user-attachments/assets/ed3f943a-1092-4173-9d65-533db07ec88c" /># 🍺 Utepils-meter Widget
 
 A Scriptable iOS home screen widget for [utepils-ten.vercel.app](https://utepils-ten.vercel.app) — instantly tells you whether it's time to grab a cold one and head outside.
 
-![Widget preview](https://utepils-ten.vercel.app/og.png)
+![Widget preview]<img width="474" height="474" alt="utepils-widget" src="https://github.com/user-attachments/assets/700db563-1628-41a2-8e1f-ff3d92f0783e" />
+
 
 ---
 
