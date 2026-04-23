@@ -5,14 +5,12 @@ A Scriptable iOS home screen widget for [utepils-ten.vercel.app](https://utepils
 <img width="200" height="200" alt="utepils-widget" src="https://github.com/user-attachments/assets/700db563-1628-41a2-8e1f-ff3d92f0783e" />
 
 
----
 
 ## Requirements
 
 - iPhone with iOS 14+
 - [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) (free on the App Store)
 
----
 
 ## Installation
 
@@ -22,7 +20,6 @@ A Scriptable iOS home screen widget for [utepils-ten.vercel.app](https://utepils
 4. Name the script `Utepils` and tap **Done**
 5. Tap the script once to run it and verify it works — a widget preview should appear
 
----
 
 ## Adding to your home screen
 
