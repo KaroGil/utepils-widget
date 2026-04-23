@@ -1,10 +1,11 @@
 # 🍺 Utepils-meter Widget
 
-A Scriptable iOS home screen widget for [utepils-ten.vercel.app](https://utepils-ten.vercel.app) — instantly tells you whether it's time to grab a cold one and head outside.
+A Scriptable iOS home screen widget for [utepils-ten.vercel.app](https://utepils-ten.vercel.app) — instantly tells you whether it's time to grab a cold one and head outside. 
 
 <img width="200" height="200" alt="utepils-widget" src="https://github.com/user-attachments/assets/700db563-1628-41a2-8e1f-ff3d92f0783e" />
 
 
+Scoren blir oppdatert hvert 30. minutt. Dersom du vil ha et egendefinert intervall, endre siste del av koden slik som kommentert der.
 
 ## Requirements
 
