@@ -13,11 +13,15 @@ A Scriptable iOS home screen widget for [utepils-ten.vercel.app](https://utepils
 - [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) (free on the App Store)
 
 
+## Two scripts
+1. utepils.js - uses bergen utepils score
+2. utepils-local.js - uses local utepils score [MUST CONSENT TO SHARE LOCATION]
+
 ## Installation
 
 1. Install [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) from the App Store
 2. Open Scriptable and tap **+** to create a new script
-3. Paste the contents of [`utepils_widget.js`](./utepils_widget.js) into the editor
+3. Paste the contents of [`utepils.js`](./utepils_widget.js) into the editor
 4. Name the script `Utepils` and tap **Done**
 5. Tap the script once to run it and verify it works — a widget preview should appear
 
